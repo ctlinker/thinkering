@@ -1,0 +1,26 @@
+/**
+ * Custom styling to fix padding issues
+ */
+
+:root {
+  --vp-home-hero-name-color: var(--vp-c-brand);
+}
+
+/* Ensure the main content has enough padding on mobile/smaller screens */
+@media (max-width: 640px) {
+  .vp-doc {
+    padding: 0 24px;
+  }
+}
+
+.posts-list {
+  margin-top: 2rem;
+}
+
+.post-item {
+  transition: transform 0.2s ease;
+}
+
+.post-item:hover {
+  transform: translateX(5px);
+}

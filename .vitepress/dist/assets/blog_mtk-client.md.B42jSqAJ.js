@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./chunks/framework.26dFs73Q.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/mtk-client.md","filePath":"blog/mtk-client.md"}'),o={name:"blog/mtk-client.md"};function n(c,r,s,i,l,m){return e(),a("div")}const d=t(o,[["render",n]]);export{_ as __pageData,d as default};

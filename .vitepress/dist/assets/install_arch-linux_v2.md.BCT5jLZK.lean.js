@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as e}from"./chunks/framework.26dFs73Q.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"install/arch-linux/v2.md","filePath":"install/arch-linux/v2.md"}'),n={name:"install/arch-linux/v2.md"};function r(s,c,o,i,l,p){return a(),e("div")}const m=t(n,[["render",r]]);export{d as __pageData,m as default};

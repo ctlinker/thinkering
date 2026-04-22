@@ -16,3 +16,4 @@ Coding Assistant / Documentation Setup
 - [x] Dynamic blog engine implementation
 - [x] Automatic install history sidebar
 - [x] Theme customization and layout fixes
+- [x] Created project README.md

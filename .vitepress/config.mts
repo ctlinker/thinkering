@@ -30,8 +30,11 @@ function getInstallSidebar() {
   })
 }
 
+const repo = process.env.REPO_NAME ?? "thinkering"
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: `/${repo}/`,
   srcDir: "docs",
   
   title: "Thinkering Logs",
